@@ -1,0 +1,114 @@
+{
+    "CdS": {
+        "eg": 2.42,
+        "me_ratio": 0.21,
+        "mh_ratio": 0.80,
+        "eps": 8.9,
+        "toxic": true
+    },
+    "CdSe": {
+        "eg": 1.74,
+        "me_ratio": 0.13,
+        "mh_ratio": 0.45,
+        "eps": 10.6,
+        "toxic": true
+    },
+    "CdTe": {
+        "eg": 1.44,
+        "me_ratio": 0.09,
+        "mh_ratio": 0.40,
+        "eps": 10.4,
+        "toxic": true
+    },
+    "ZnS": {
+        "eg": 3.54,
+        "me_ratio": 0.34,
+        "mh_ratio": 0.23,
+        "eps": 8.3,
+        "toxic": false
+    },
+    "ZnSe": {
+        "eg": 2.70,
+        "me_ratio": 0.16,
+        "mh_ratio": 0.60,
+        "eps": 8.6,
+        "toxic": false
+    },
+    "ZnTe": {
+        "eg": 2.26,
+        "me_ratio": 0.12,
+        "mh_ratio": 0.60,
+        "eps": 10.1,
+        "toxic": false
+    },
+    "InP": {
+        "eg": 1.35,
+        "me_ratio": 0.08,
+        "mh_ratio": 0.60,
+        "eps": 12.5,
+        "toxic": false
+    },
+    "InAs": {
+        "eg": 0.35,
+        "me_ratio": 0.023,
+        "mh_ratio": 0.40,
+        "eps": 15.15,
+        "toxic": true
+    },
+    "GaAs": {
+        "eg": 1.42,
+        "me_ratio": 0.067,
+        "mh_ratio": 0.51,
+        "eps": 12.9,
+        "toxic": true
+    },
+    "PbS": {
+        "eg": 0.37,
+        "me_ratio": 0.085,
+        "mh_ratio": 0.085,
+        "eps": 17.0,
+        "toxic": true
+    },
+    "PbSe": {
+        "eg": 0.27,
+        "me_ratio": 0.046,
+        "mh_ratio": 0.043,
+        "eps": 23.0,
+        "toxic": true
+    },
+    "CsPbBr3": {
+        "eg": 2.30,
+        "me_ratio": 0.15,
+        "mh_ratio": 0.14,
+        "eps": 4.8,
+        "toxic": true
+    },
+    "CsPbI3": {
+        "eg": 1.73,
+        "me_ratio": 0.11,
+        "mh_ratio": 0.11,
+        "eps": 6.1,
+        "toxic": true
+    },
+    "CsPbCl3": {
+        "eg": 3.00,
+        "me_ratio": 0.19,
+        "mh_ratio": 0.17,
+        "eps": 4.2,
+        "toxic": true
+    },
+    "CuInS2": {
+        "eg": 1.53,
+        "me_ratio": 0.16,
+        "mh_ratio": 1.30,
+        "eps": 11.0,
+        "toxic": false
+    },
+    "Ag2S": {
+        "eg": 0.90,
+        "me_ratio": 0.22,
+        "mh_ratio": 0.74,
+        "eps": 5.9,
+        "toxic": false
+    }
+}
